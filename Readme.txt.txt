@@ -1,3 +1,5 @@
 encore un RM
-fuck un changement
-wait
+<<<<<<< HEAD
+
+=======
+>>>>>>> parent of 579d17e... Update Readme.txt.txt
